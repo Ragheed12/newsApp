@@ -7,6 +7,7 @@ const Header = ({ navigation }) => {
       <View style={styles.innerContainer}>
         <Text style={styles.title}>Today's News</Text>
         {
+          // todo
           // Add icon
         }
       </View>

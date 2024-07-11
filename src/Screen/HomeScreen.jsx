@@ -40,6 +40,7 @@ const HomeScreen = ({ navigation }) => {
       ) : (
         <View style={styles.newsContainer}>
           {
+            // todo
             // display the data of 'dataTopHeadline' 
             // only show 5 news per category
             // diplay title, description, image and date of publishing

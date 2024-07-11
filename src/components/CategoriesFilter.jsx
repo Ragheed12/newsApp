@@ -6,8 +6,9 @@ const CategoriesFilter = () => {
     <View style={styles.container}>
       <ScrollView>
       {
+        // todo
         // only show 3 categories randomly
-        // show horizonal list of categories
+        // show horizontal list of categories
         // if a category is pressed should be reflect in the homeScreen
       }
       </ScrollView>
